@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sunwayworld.ESCM</string>
+				<string>com.sunwayworld.escm</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ESCM</string>
+				<string>escm.ipa</string>
 			</dict>
 		</dict>
 	</array>
