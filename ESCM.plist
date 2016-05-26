@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://139.196.252.11/WeChart/app/bsb.ipa</string>
+					<string>http://139.196.252.11/WeChart/app/escm.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ygcomputer.biaoshibang.app</string>
+				<string>com.sunwayworld.escm.app</string>
 				<key>bundle-version</key>
-				<string>1.6.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>bsb.ipa</string>
+				<string>escm.ipa</string>
 			</dict>
 		</dict>
 	</array>
